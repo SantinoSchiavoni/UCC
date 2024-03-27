@@ -1,0 +1,3 @@
+D:/UCC/2do año/Programacion II/cmake-build-debug/CMakeFiles/Programacion_II.dir
+D:/UCC/2do año/Programacion II/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/UCC/2do año/Programacion II/cmake-build-debug/CMakeFiles/rebuild_cache.dir
