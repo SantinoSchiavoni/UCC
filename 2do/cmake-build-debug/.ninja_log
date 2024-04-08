@@ -1,0 +1,12 @@
+# ninja log v5
+17	1366	7342952938748480	CMakeFiles/2do.dir/Programacion_II/Guia_1/3-vector.cpp.obj	7ae9d436affd4ca9
+44	1414	7342952939233158	CMakeFiles/2do.dir/Programacion_II/Guia_1/2-factorial.cpp.obj	9c7d13b33c5f8d30
+24	1464	7342952939752159	CMakeFiles/2do.dir/Programacion_II/Guia_1/Asistencia-18-03.cpp.obj	3b82adc37c7e1361
+1370	1886	7342952943992467	CMakeFiles/2do.dir/Programacion_II/Teorico/ejemplo1.cpp.obj	3a8b119e34a9971d
+1	1453	7342952939612694	CMakeFiles/2do.dir/Programacion_II/Guia_1/1-polinomio.cpp.obj	4add4284df70fe95
+10	1376	7342952938814454	CMakeFiles/2do.dir/Programacion_II/cmake-build-debug/pruebaenclion.cpp.obj	7cdfb2315441355
+32	1392	7342952938945881	CMakeFiles/2do.dir/Programacion_II/Guia_1/4-matriz.cpp.obj	9ce7403b88bf391c
+1393	1854	7342952943676981	CMakeFiles/2do.dir/Programacion_II/Guia_1/burbujaMejorada.cpp.obj	1eb4fa3503cf38c5
+1376	2123	7342952946363431	CMakeFiles/2do.dir/Programacion_II/Teorico/ejemploPOO.cpp.obj	bf3f2ad347c7df2f
+2	186	7342953421694559	build.ninja	1854559901640fde
+2	133	7342953423178569	2do.exe	140bf6494af9682b

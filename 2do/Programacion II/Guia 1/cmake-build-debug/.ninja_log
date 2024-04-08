@@ -1,0 +1,13 @@
+# ninja log v5
+28	1304	7342951316228350	CMakeFiles/Guia_1.dir/3-vector.cpp.obj	f3cf765d459de088
+15	1308	7342951316242301	CMakeFiles/Guia_1.dir/4-matriz.cpp.obj	c95be5172f3e41f4
+60	1313	7342951316277161	CMakeFiles/Guia_1.dir/Asistencia-18-03.cpp.obj	8a8927d2bef639de
+1	1315	7342951316263810	CMakeFiles/Guia_1.dir/1-polinomio.cpp.obj	17ddadfadc9345e8
+8	1315	7342951316263810	CMakeFiles/Guia_1.dir/2-factorial.cpp.obj	dd354ad26ba8f251
+41	1319	7342951316397619	CMakeFiles/Guia_1.dir/burbujaMejorada.cpp.obj	f0132d8d32aa8a7b
+22	1057	7342951929698325	CMakeFiles/Guia_1.dir/burbujaMejorada.cpp.obj	f0132d8d32aa8a7b
+33	1058	7342951929887891	CMakeFiles/Guia_1.dir/3-vector.cpp.obj	f3cf765d459de088
+4	1060	7342951929947855	CMakeFiles/Guia_1.dir/2-factorial.cpp.obj	dd354ad26ba8f251
+15	1064	7342951929962866	CMakeFiles/Guia_1.dir/1-polinomio.cpp.obj	17ddadfadc9345e8
+41	1087	7342951930246111	CMakeFiles/Guia_1.dir/4-matriz.cpp.obj	c95be5172f3e41f4
+47	1093	7342951930310502	CMakeFiles/Guia_1.dir/Asistencia-18-03.cpp.obj	8a8927d2bef639de
