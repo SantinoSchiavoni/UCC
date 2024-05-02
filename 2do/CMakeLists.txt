@@ -5,4 +5,5 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(2do
         "Programacion II/Guia 1/2-factorial.cpp"
-        )
+        "Programacion II/Teorico/poo.cpp"
+)
