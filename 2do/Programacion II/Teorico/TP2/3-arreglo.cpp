@@ -18,6 +18,9 @@ int main(){
     puntero1 = &a[0];
     puntero2 = &a[4];
 
+    cout<<"El primer elemento es: "<<*puntero1<<endl;
     cout<<"La direccion de memoria del primer elemento es: "<<puntero1<<endl;
+    cout<<"El ultimo elemento es: "<<*puntero2<<endl;
     cout<<"La direccion de memoria del ultimo elemento es: "<<puntero2<<endl;
+
 }

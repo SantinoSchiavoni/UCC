@@ -18,8 +18,6 @@ char* copia(char* a){
 int main(){
     char cadena[10];
     char *p;
-    char copia_cadena[10];
-
     p=&cadena[0];
 
     cout << "Ingrese una cadena de caracteres: ";

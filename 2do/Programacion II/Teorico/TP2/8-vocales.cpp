@@ -14,8 +14,7 @@ int vocales(char* cadena){
     int l = strlen(cadena);
     p = &cadena[0];
         for(int i = 0; i < l; i++){ //strlen devuelve la longitud de la cadena
-        p[i] = toupper(p[i]); //toupper convierte a mayusculas
-        if(p[i] == 'A' || p[i] == 'E' || p[i] == 'I' || p[i] == 'O' || p[i] == 'U'){
+        if(p[i] == 'a' || p[i] == 'e' || p[i] == 'i' || p[i] == 'o' || p[i] == 'u'){
             contador++;
         }
     }
@@ -29,6 +28,6 @@ int main(){
 
     cout << "Ingrese una cadena de caracteres: ";
     cin.getline(p, 50);
-    cout << "Cantidad de vocales: " << vocales(p) << endl;
+    cout << "Cantidad de vocales minusculas: " << vocales(p) << endl;
     return 0;
 }
