@@ -2,7 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Programacion II/Proyecto-ProgramacionII-Rolon-Schiavoni-Taurian" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Programacion III/repaso-santinoschiavoni_2319332" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Programacion III/u1-recursividad-santinoschiavoni_2319332" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Programacion III/unidad02-listas-SantinoSchiavoni" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Proyecto2024-Rolon-Schiavoni-Sesin-Taurian" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/ProyectoLab2" vcs="Git" />
   </component>
 </project>
